@@ -2,6 +2,8 @@
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
+![CI](https://github.com/maxplush/pagila-hw2/actions/workflows/tests.yml/badge.svg)
+
 ## Tasks
 
 1. Recall that [git is not github](https://pedrorijo.com/blog/git-init/#what-is-not-git).
